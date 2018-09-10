@@ -11,7 +11,7 @@
 ## Instructions
 
 1. Preheat oven to 450°F
-2. Trim woody ends from asparagus and to even the length of all the stalks
+2. Trim woody ends from asparagus and to even the length of all the stalks (**pro tip**: *To remove woody ends, grab stalk of asparagus at either end and bend until it snaps. It will naturally snap where it starts to get tough*.)
 3. Place trimmed asparagus stalks on cookie sheet
 4. Incorporate olive oil, garlic, sea salt, and pepper, mixing the ingredients into the asparagus for even coverage
 5. Arrange seasoned asparagus onto one layer on cookie sheet
