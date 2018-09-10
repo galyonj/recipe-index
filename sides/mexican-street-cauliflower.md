@@ -13,7 +13,7 @@
 * 1 tbsp granulated erythritol sweetener
 * 1 tbsp ground chipotle pepper powder
 * 1 tsp coarse-ground sea salt
-* 1/3 cup finely crumbled Cotija cheese (see example), or grated parmesan cheese
+* 1/3 cup finely crumbled Cotija cheese (you should be able to dust the cauliflower with this)
 * 4 lime wedges
 * 2 tbsp chopped fresh cilantro
 
