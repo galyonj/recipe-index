@@ -1,6 +1,7 @@
 #Mexican Street Cauliflower
 
 ##Recipe Notes
+|:---------:|:-------:|
 |Prep Time|10 minutes|
 |Total Time|10 minutes|
 |Yield|4 servings|
