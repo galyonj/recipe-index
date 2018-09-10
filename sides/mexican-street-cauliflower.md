@@ -12,7 +12,7 @@
 * .25 cup mayonnaise
 * 1 tbsp granulated erythritol sweetener
 * 1 tbsp ground chipotle pepper powder
-* 1 tsp kosher salt (less if fine sea salt or table salt)
+* 1 tsp coarse-ground sea salt
 * 1/3 cup finely crumbled Cotija cheese (see example), or grated parmesan cheese
 * 4 lime wedges
 * 2 tbsp chopped fresh cilantro
