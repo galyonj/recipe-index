@@ -1,10 +1,11 @@
 # Mexican Street Cauliflower
 
 ## Recipe Notes
-|:---------:|:-------:|
-|Prep Time|10 minutes|
+|Note      |Value     |
+|:---------|---------:|
+|Prep Time |10 minutes|
 |Total Time|10 minutes|
-|Yield|4 servings|
+|Yield     |4 servings|
 
 ## Ingredients
 * 2 cups cooked cauliflower florets, fork tender
