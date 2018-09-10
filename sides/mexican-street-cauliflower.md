@@ -1,12 +1,12 @@
-#Mexican Street Cauliflower
+# Mexican Street Cauliflower
 
-##Recipe Notes
+## Recipe Notes
 |:---------:|:-------:|
 |Prep Time|10 minutes|
 |Total Time|10 minutes|
 |Yield|4 servings|
 
-##Ingredients
+## Ingredients
 * 2 cups cooked cauliflower florets, fork tender
 * .25 cup mayonnaise
 * 1 tbsp granulated erythritol sweetener
@@ -16,7 +16,7 @@
 * 4 lime wedges
 * 2 tbsp chopped fresh cilantro
 
-##Instructions
+## Instructions
 
 1. Thread the hot cauliflower florets on 4 large skewers (*alternately, you can simply spread them evenly onto a baking sheet*)
 2. Combine the mayonnaise and sweetener, then brush generously onto the cauliflower.
